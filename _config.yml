@@ -3,7 +3,6 @@ title: KaiserTT's Blog
 SEOTitle: KaiserTT 的博客 | KaiserTT's Blog
 header-img: img/home-bg.jpg
 email: kaisertan015@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "KaiserTT, KaiserTT's Blog"
 url: "https://KaiserTT.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,7 +12,7 @@ future: false
 
 # SNS settings
 RSS: false
-github_username: huxpro
+github_username: KaiserTT
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -33,7 +32,7 @@ exclude:
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+timezone: CN
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -71,12 +70,12 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "做一个快乐的苏格拉底"
+# sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
@@ -88,5 +87,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "lazy_forever", href: "https://blog.lazyforever.top/" },
   ]
