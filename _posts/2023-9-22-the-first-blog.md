@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "First Blog"
-tags: Blogs
 header-style: text
 author: "KaiserTT"
 tags:
