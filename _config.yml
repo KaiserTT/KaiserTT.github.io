@@ -1,7 +1,7 @@
 # Site settings
 title: KaiserTT's Blog
 SEOTitle: KaiserTT 的博客 | KaiserTT's Blog
-header-img: img/home-bg.jpg
+header-img: img/home_bg.jpg
 email: kaisertan015@gmail.com
 keyword: "KaiserTT, KaiserTT's Blog"
 url: "https://KaiserTT.github.io" # your host, for absolute URL
@@ -13,7 +13,6 @@ future: false
 # SNS settings
 RSS: false
 github_username: KaiserTT
-bilibili_username: 分析学是什么
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
