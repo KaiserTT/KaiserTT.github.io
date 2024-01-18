@@ -1,1 +1,3 @@
-Hey, I am KaiserTT.
+Hey, I am KaiserTT. Now studying at [Nankai University](https://www.google.com.hk/search?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6&rlz=1C1YTUH_zh-CN__1065__1065&oq=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPTIGCAQQRRg9MgYIBRBFGD0yBggGEEUYQdIBCDExODNqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8) Department of Computer Science and Technology, committed to feeling and understanding this interesting world.
+
+ Welcome to my blog! I will share what I have learned here. You can also follow me on [Github](https://github.com/KaiserTT) and [Bilibili](https://space.bilibili.com/398779657?spm_id_from=333.337.0.0).

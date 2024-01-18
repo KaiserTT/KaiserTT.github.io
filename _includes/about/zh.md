@@ -1,1 +1,3 @@
-大家好, 这里是 KaiserTT.
+大家好, 我是 KaiserTT. 现就读于[开专](https://www.google.com.hk/search?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6&rlz=1C1YTUH_zh-CN__1065__1065&oq=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPTIGCAQQRRg9MgYIBRBFGD0yBggGEEUYQdIBCDExODNqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)计算机科学与技术系, 致力于感受和理解这个有趣的世界.
+
+欢迎来到我的博客, 我将在这分享学到的各种知识. 也欢迎关注我的 [Github](https://github.com/KaiserTT) 和 [Bilibili](https://space.bilibili.com/398779657?spm_id_from=333.337.0.0).
